@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "NikIvan",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^3.5.0",
+    "cron": "^1.2.1",
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.1",
+    "pino": "^4.5.2"
+  }
+}
